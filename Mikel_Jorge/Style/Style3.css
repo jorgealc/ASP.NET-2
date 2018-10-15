@@ -1,0 +1,101 @@
+﻿body {
+    background-color:#009999;
+}
+
+.navbar {
+  padding: 10px 0;
+ 
+  background:#009999;  
+  
+  
+}
+
+#Image1 {
+   border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+#Image2 {
+    border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+
+#Image3 {
+    border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+
+#Image4 {
+  border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+#Image5 {
+  border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+#Image6 {
+  border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+#Image7 {
+  border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+#Image8 {
+    border-style: solid;
+    border-color: #66FFFF;
+    text-align: center;
+    font-size: 50px;
+    color: #66FFFF;
+}
+ #Image9 {
+  border-style:solid;
+    border-color:#66FFFF;
+    text-align:center;
+    font-size:50px;
+    color:#66FFFF;
+}
+ .nav-link {
+  transition: 5s;
+  color: #ffffff;
+ 
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+ .nav-link:hover {
+        background-color: #66FFFF;
+        color: #FFF;
+        padding: 5px 5px;
+}
+
+#Image10 {
+    border-style: solid;
+    border-color: #66FFFF;
+}
+
+.footer {
+    text-align: right;
+}
+
+

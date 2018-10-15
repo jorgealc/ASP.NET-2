@@ -1,0 +1,32 @@
+﻿body {
+    background-color:#FFCCCC;
+}
+.navbar {
+  padding: 10px 0;
+ 
+  background: #FFCCCC;
+  
+  
+}
+
+.nav-link {
+  transition: 0.4s;
+  color: #ffffff;
+ 
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+.nav-link:hover  {
+    background-color:  #009999;
+  color: #FFF;
+  padding: 5px 5px;
+  
+}
+
+#Image2 {
+    margin-left:1000px;
+}
+
+
+

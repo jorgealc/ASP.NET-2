@@ -1,0 +1,43 @@
+﻿
+
+body {
+    background-color:#66FFFF;
+}
+.navbar {
+  padding: 10px 0;
+ 
+  background: #66FFFF;
+  
+  
+}
+
+
+
+
+.nav-link {
+  transition: 0.4s;
+  color: #ffffff;
+ 
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+.nav-link:hover  {
+    background-color: #CC3333;
+  color: #FFF;
+  padding: 5px 5px;
+  
+}
+
+.footer {
+    text-align: right;
+}
+
+.web2 {
+    background-color:#FFCCCC;
+}
+
+
+
+
+

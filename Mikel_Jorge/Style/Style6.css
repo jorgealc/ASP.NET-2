@@ -1,0 +1,98 @@
+﻿body {
+     background-color:#E9E9E9;
+}
+
+.container {
+    display: flexbox;
+    flex-direction:row;
+    flex-wrap:wrap;
+    
+    
+    
+
+}
+.navbar {
+    width:100%;
+   
+     
+}
+
+.row {
+    display: flexbox;
+    flex-direction: row;
+    
+}
+
+#div_izquierda {
+    width: 50%;
+    
+}
+#div_derecha {
+    width: 50%;
+    display: flexbox;
+    flex-direction: row;
+    flex-wrap:wrap;
+    
+
+    
+}
+
+
+
+#nombre {
+    display: inline-block;
+    width: 33%;
+     
+}
+#apellidos {
+    display: inline-block;
+    width: 33%;
+}
+#asunto {
+    display: inline-block;
+    width: 32%;
+    
+}
+
+.form-control:focus {
+        outline: none !important;
+        border: 1px solid #E9E9E9;
+        box-shadow: 0 0 10px #E9E9E9;
+    }
+
+
+@media (min-width:400px) {
+    #div_izquierda,
+    #nombre,
+    #apellidos,
+    #asunto{
+        width: 100%;
+    }
+}
+
+@media (min-width:800px) {
+    #nombre {
+        width: 33%;
+    }
+    #apellidos {
+        width: 33%;
+    }
+    #asunto {
+        width: 32%;
+    }
+    
+}
+
+ .nav-link {
+  transition: 0.4s;
+  color: #ffffff;
+ 
+  text-decoration: none;
+  padding: 0 10px;
+  margin: 0 10px;
+}
+ .nav-link:hover {
+        background-color:  #CC3333;
+        color: #FFF;
+        padding: 5px 5px;
+}
